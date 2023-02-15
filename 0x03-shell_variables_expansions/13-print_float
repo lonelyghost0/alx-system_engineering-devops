@@ -1,2 +1,3 @@
 #!/bin/bash
- tail -n 17
+printf "%.2f\n" $NUM
+
